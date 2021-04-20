@@ -44,7 +44,9 @@ CONTANDO IMPARES
 
 ¡Vamos a crear una función interesante!
 En este ejercicio nuestra tarea es completar la función noParesDeContarImparesHasta.
-Esta función recibe un número X por parámetro y cuenta la cantidad de números impares que hay desde el número 0 hasta el número X (inclusive) y luego retorna ese valor. Para resolver la ejercitación debemos utilizar el for.
+Esta función recibe un número X por parámetro y cuenta la cantidad de
+números impares que hay desde el número 0 hasta el número X (inclusive) y luego retorna ese valor.
+Para resolver la ejercitación debemos utilizar el for.
 */
 
 function noParesDeContarImparesHasta(numero){
@@ -56,4 +58,4 @@ function noParesDeContarImparesHasta(numero){
 }
 
 console.log("Contando Impares");
-console.log(noParesDeContarImparesHasta(10)) // Muestra en pantalla el resultado de contar cuantos impares existen desde el cero hasta el numero que le pasamos como argumento
+console.log(noParesDeContarImparesHasta(10))
